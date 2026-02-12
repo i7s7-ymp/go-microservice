@@ -1,1 +1,2 @@
 # go-microservice
+シンプルなGoで記述されたマイクロサービス
